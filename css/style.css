@@ -20,9 +20,7 @@
 .banner-logo{
     width: 300px
 }
-.banner-container{
-    top: 67%;
-}
+
 .game-card img{
     width: 100%;
     border-radius: 10px;
@@ -32,6 +30,6 @@
     border: 2px solid blue;
     padding: 2px;
 }
-.wrapper .banner-container{
+.banner-container{
     top: 55%;
 }
