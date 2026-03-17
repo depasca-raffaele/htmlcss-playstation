@@ -32,3 +32,6 @@
     border: 2px solid blue;
     padding: 2px;
 }
+.wrapper .banner-container{
+    top: 25%;
+}
