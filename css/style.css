@@ -21,7 +21,9 @@
 
 
 /* CSS */
-
+body{
+    font-family: 'SST', sans-serif;
+}
 
 .banner{
     margin: 120px 0 0 0; 
@@ -75,4 +77,16 @@ a{
 }
 .sie-text{
     font-size: 0.8rem;
+}
+.hello-nav-logo{
+    height: 15px;
+}
+.nav a{
+    color: black;
+}
+.menu-style{
+    width: 100%;
+    margin-top: 0 !important;
+    border-top: 0;
+    border-radius: 0;
 }
