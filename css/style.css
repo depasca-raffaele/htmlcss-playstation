@@ -119,5 +119,9 @@ a{
     display: block;
     translate: 19px;
 }
-
-
+.btn.bg-orange:hover{
+    background-color: rgb(184, 73, 0);
+}
+.btn.bg-light-gray:hover{
+    background-color: rgb(177, 177, 177);
+}
